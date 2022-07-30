@@ -1,13 +1,13 @@
 ---
-widget: pages
+widget: blank
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 90
 
-title: Recent Publications
+title: Gallary
 subtitle: ''
 ---
 

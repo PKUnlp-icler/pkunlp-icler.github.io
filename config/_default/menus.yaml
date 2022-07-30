@@ -28,9 +28,12 @@ main:
   - name: Publications
     url: '#8-publications'
     weight: 80
+  - name: Gallary
+    url: '#9-gallary'
+    weight: 90
   - name: Contact
     url: '#contact'
-    weight: 90
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
