@@ -46,4 +46,4 @@ subtitle = ""
 
 ## 👋 Welcome to TANGENT Group!
 
-We are Text ANalysis and GENeration Technology Group (TANGENT) from Peking University. Our major research interests resides in Natural Language Processing. We are broadly interested in several research topics including discourse parsing, document summarization, text generation, keyword extraction, machine comprehension and information extraction.
+We are Text ANalysis and GENeration Technology Group (TANGENT) from Peking University. Our major research interests reside in Natural Language Processing. We are broadly interested in several research topics including discourse parsing, document summarization, text generation, keyword extraction, machine comprehension and information extraction.
