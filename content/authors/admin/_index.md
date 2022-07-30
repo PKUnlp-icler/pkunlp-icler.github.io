@@ -5,7 +5,7 @@ title: Sujian Li
 # Is this the primary user of the site?
 superuser: true
 
-user_groups: "Principle Investigators",
+user_groups: "Principle Investigators"
 # Role/position/tagline
 role: Professor of Artificial Intelligence
 
