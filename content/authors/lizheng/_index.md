@@ -10,12 +10,12 @@ authors:
   - Zheng Li
 
 user_groups: 
-- Ph.d. Students
+- Ph.D. Students
 
 weight: 30
 
 # Role/position/tagline
-role: Ph.d. student (2022 - 2027)
+role: Ph.D. student (2022 - 2027)
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -10,12 +10,12 @@ authors:
   - Wenhao Wu
 
 user_groups: 
-- Ph.d. Students
+- Ph.D. Students
 
 weight: 10
 
 # Role/position/tagline
-role: Ph.d. student (2021 - 2025)
+role: Ph.D. student (2021 - 2025)
 
 # Organizations/Affiliations to show in About widget
 organizations:
