@@ -11,4 +11,4 @@ title: Recent Publications
 subtitle: ''
 ---
 
-{{< gallery album="" >}}
+{{< gallery album="gallary" >}}
