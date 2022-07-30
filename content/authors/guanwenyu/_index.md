@@ -21,7 +21,7 @@ role: Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peking University
+  - name: Xiaomi
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
