@@ -1,50 +1,38 @@
 ---
-# An instance of the Portfolio widget.
+# An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
-title: Projects
-subtitle: ''
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Projects'
+subtitle:
 
-content:
-  # Page type to display. E.g. project.
-  page_type: project
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  # filter_default: 0
-
-  # # Filter toolbar (optional).
-  # # Add or remove as many filters (`filter_button` instances) as you like.
-  # # To show all items, set `tag` to "*".
-  # # To filter by a specific tag, set `tag` to an existing tag name.
-  # # To remove the toolbar, delete the entire `filter_button` block.
-  # filter_button:
-  #   - name: All
-  #     tag: '*'
-  #   - name: Deep Learning
-  #     tag: Deep Learning
-  #   - name: Other
-  #     tag: Demo
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+# item:
+#   - date_start: '2022-01-01'
+#     organization: AACL
+#     title: AACL 2022 PC Co-Chair
+#   - date_start: '2022-01-01'
+#     organization: CCL
+#     title: CCL 2022 PC Co-Chair
 
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  view: 3
 ---
 - 国家重点研发计划课题 (企业领域知识图谱构建与智能分析决策技术研究): 2019YFB1704002 (2019.12 - 2022.11)
 - 百度合作：自动摘要（2020-2022）
