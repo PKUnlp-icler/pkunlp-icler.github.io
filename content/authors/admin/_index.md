@@ -5,6 +5,12 @@ title: Sujian Li
 # Is this the primary user of the site?
 superuser: true
 
+authors:
+  - Sujian Li
+
+user_groups: 
+- Professor
+
 # Role/position/tagline
 role: Associate Professor
 
