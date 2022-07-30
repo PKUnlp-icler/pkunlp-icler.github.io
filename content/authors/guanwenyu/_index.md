@@ -17,7 +17,7 @@ user_groups:
 weight: 30
 
 # Role/position/tagline
-role: Alumni
+role: Xiaomi
 
 # Organizations/Affiliations to show in About widget
 organizations:

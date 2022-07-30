@@ -17,7 +17,7 @@ user_groups:
 weight: 130
 
 # Role/position/tagline
-role: Alumni
+role: Amazon Search/A9
 
 # Organizations/Affiliations to show in About widget
 organizations:

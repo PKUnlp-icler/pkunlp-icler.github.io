@@ -17,7 +17,7 @@ user_groups:
 weight: 140
 
 # Role/position/tagline
-role: Alumni
+role: University of Illinois at Urbana-Champaign
 
 # Organizations/Affiliations to show in About widget
 organizations:

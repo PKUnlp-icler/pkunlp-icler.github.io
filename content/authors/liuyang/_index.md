@@ -17,7 +17,7 @@ user_groups:
 weight: 80
 
 # Role/position/tagline
-role: Alumni
+role: Microsoft
 
 # Organizations/Affiliations to show in About widget
 organizations:

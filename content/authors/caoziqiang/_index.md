@@ -17,7 +17,7 @@ user_groups:
 weight: 10
 
 # Role/position/tagline
-role: Alumni
+role: SooChew University
 
 # Organizations/Affiliations to show in About widget
 organizations:

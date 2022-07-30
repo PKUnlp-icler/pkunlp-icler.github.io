@@ -17,7 +17,7 @@ user_groups:
 weight: 100
 
 # Role/position/tagline
-role: Alumni
+role: MSRA
 
 # Organizations/Affiliations to show in About widget
 organizations:

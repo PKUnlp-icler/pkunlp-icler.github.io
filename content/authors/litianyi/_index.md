@@ -17,7 +17,7 @@ user_groups:
 weight: 50
 
 # Role/position/tagline
-role: Alumni
+role: The University of Edinburgh
 
 # Organizations/Affiliations to show in About widget
 organizations:

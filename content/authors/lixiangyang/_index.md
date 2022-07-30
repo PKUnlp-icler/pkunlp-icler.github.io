@@ -17,11 +17,11 @@ user_groups:
 weight: 60
 
 # Role/position/tagline
-role: Alumni
+role: Noah's Ark Lab, Huawei
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Noah's Ark Lab
+  - name: Noah's Ark Lab, Huawei
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)

@@ -15,11 +15,11 @@ user_groups:
 weight: 20
 
 # Role/position/tagline
-role: Alumni
+role: University of Washington
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: U Washington
+  - name: University of Washington
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)

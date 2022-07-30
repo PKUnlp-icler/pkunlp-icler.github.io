@@ -17,7 +17,7 @@ user_groups:
 weight: 70
 
 # Role/position/tagline
-role: Alumni
+role: Kyoto University
 
 # Organizations/Affiliations to show in About widget
 organizations:

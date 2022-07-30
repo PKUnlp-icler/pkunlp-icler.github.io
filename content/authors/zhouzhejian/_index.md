@@ -17,7 +17,7 @@ user_groups:
 weight: 150
 
 # Role/position/tagline
-role: Alumni
+role: Peking University
 
 # Organizations/Affiliations to show in About widget
 organizations:

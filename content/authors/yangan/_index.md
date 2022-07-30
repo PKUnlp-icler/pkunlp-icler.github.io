@@ -17,7 +17,7 @@ user_groups:
 weight: 120
 
 # Role/position/tagline
-role: Alumni
+role: DAMO, Alibaba
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -17,7 +17,7 @@ user_groups:
 weight: 110
 
 # Role/position/tagline
-role: Alumni
+role: NTT
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -17,7 +17,7 @@ user_groups:
 weight: 90
 
 # Role/position/tagline
-role: Alumni
+role: Huawei
 
 # Organizations/Affiliations to show in About widget
 organizations:
