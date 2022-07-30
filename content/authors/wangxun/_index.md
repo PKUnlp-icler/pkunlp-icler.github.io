@@ -2,6 +2,8 @@
 # Display name
 title: Xun Wang
 
+active: true
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -19,7 +21,7 @@ role: Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peking University
+  - name: NTT
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)

@@ -26,7 +26,7 @@ for idx, name in enumerate(alumni_list):
     dir_name = name.split(" ")
     dir_name = dir_name[-1:] + dir_name[:-1]
     dir_name = "".join(dir_name).lower()
-    print(f"Processing No.{idx+1}: dir_name")
+    print(f"Processing No.{idx+1}: {dir_name}")
     dest_dir = f"./{dir_name}/"
     num = 10 * (idx+1)
     if not os.path.exists(dest_dir):
@@ -36,3 +36,5 @@ for idx, name in enumerate(alumni_list):
     os.system(f"sed -i 's/{src_name}/{name}/g' {dest_dir+'_index.md'}")
 
     os.system(f"sed -i 's/10/{num}/g' {dest_dir+'_index.md'}")
+    
+    os.system(f"sed -i 's/active: false/active: true/g' {dest_dir+'_index.md'}")

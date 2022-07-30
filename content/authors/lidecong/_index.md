@@ -2,6 +2,8 @@
 # Display name
 title: Decong Li
 
+active: true
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -19,8 +21,8 @@ role: Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peking University
-    url: https://www.pku.edu.cn/
+  # - name: Peking University
+  #   url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

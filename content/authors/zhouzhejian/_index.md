@@ -2,6 +2,8 @@
 # Display name
 title: Zhejian Zhou
 
+active: true
+
 # Is this the primary user of the site?
 superuser: false
 
