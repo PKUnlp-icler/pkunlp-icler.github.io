@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -24,13 +24,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_start: '2022-01-01'
-    description: ''
-    organization: AACL 2022
-    title: PC Co-Chair
+    organization: AACL
+    title: AACL 2022 PC Co-Chair
   - date_start: '2022-01-01'
-    description: ''
-    organization: CCL 2022
-    title: PC Co-Chair
+    organization: CCL
+    title: CCL 2022 PC Co-Chair
 
 design:
   columns: '2'
