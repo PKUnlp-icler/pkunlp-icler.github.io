@@ -23,13 +23,11 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: '2022'
-    date_start: '2022'
+  - date_start: '2022-01-01'
     description: ''
     organization: AACL 2022
     title: PC Co-Chair
-  - date_end: '2022'
-    date_start: '2022'
+  - date_start: '2022-01-01'
     description: ''
     organization: CCL 2022
     title: PC Co-Chair
