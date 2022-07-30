@@ -10,8 +10,12 @@ role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Institute of Computational Linguistics, Peking University
+  - name: Institute of Computational Linguistics
     url: http://icl.pku.edu.cn/
+  - name: Department of Computer Science
+    url: http://cs.pku.edu.cn/
+  - name: Peking University
+    url: https://www.pku.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include automatic summarization, discourse parsing, information extraction and computational linguistics, etc.
