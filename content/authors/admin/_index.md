@@ -6,34 +6,23 @@ title: Sujian Li
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peking University
-    url: https://www.pku.edu.cn/
+  - name: Institute of Computational Linguistics, Peking University
+    url: http://icl.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include automatic summarization, discourse parsing, information extraction and computational linguistics, etc.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Text Generation
+  - Information Extraction
+  - Discourse Parsing
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -64,14 +53,13 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'lisujian [@t] pku [dot] edu [dot] cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sujian Li is Associate Professor (with tenure) in Department of Computer Science, Peking University. Her research focuses on automatic summarization, discourse parsing, information extraction and computational linguistics, etc. She has published more than 100 papers in related fields, including more than 60 papers in high-level international conferences such as ACL, EMNLP, KDD, AAAI, IJCAI etc. The awards she received include CCL2020 best paper award, ACL2017 outstanding paper award. She has participated in the construction of comprehensive knowledge base resources, which won the second prize of the National Science and Technology Progress Award in 2011. She presided over and participated in the National Natural Science Foundation of China, the National Social Science Foundation, the National Key R&D Program, the National 863 Project and the 973 Project.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
