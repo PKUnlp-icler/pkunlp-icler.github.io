@@ -17,7 +17,7 @@ user_groups:
 weight: 140
 
 # Role/position/tagline
-role: University of Illinois at Urbana-Champaign
+role: UIUC
 
 # Organizations/Affiliations to show in About widget
 organizations:
