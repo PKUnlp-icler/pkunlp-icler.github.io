@@ -10,7 +10,7 @@ authors:
   - Yuhang Gong
 
 user_groups: 
-- Grad Students
+- Grad. Students
 
 weight: 20
 

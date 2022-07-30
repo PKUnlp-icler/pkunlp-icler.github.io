@@ -10,7 +10,7 @@ authors:
   - Yifan Song
 
 user_groups: 
-- Phd Students
+- Ph.d. Students
 
 weight: 20
 

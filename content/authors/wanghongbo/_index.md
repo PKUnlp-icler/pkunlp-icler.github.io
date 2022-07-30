@@ -10,7 +10,7 @@ authors:
   - Hongbo Wang
 
 user_groups: 
-- Grad Students
+- Grad. Students
 
 weight: 30
 

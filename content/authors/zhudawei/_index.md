@@ -10,7 +10,7 @@ authors:
   - Dawei Zhu
 
 user_groups: 
-- Phd Students
+- Ph.d. Students
 
 weight: 40
 

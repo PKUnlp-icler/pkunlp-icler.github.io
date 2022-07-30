@@ -10,7 +10,7 @@ authors:
   - Zheng Li
 
 user_groups: 
-- Phd Students
+- Ph.d. Students
 
 weight: 30
 

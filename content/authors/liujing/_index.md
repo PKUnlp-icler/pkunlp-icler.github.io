@@ -10,7 +10,7 @@ authors:
   - Jing Liu
 
 user_groups: 
-- Grad Students
+- Grad. Students
 
 weight: 40
 

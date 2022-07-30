@@ -10,7 +10,7 @@ authors:
   - Yu Xia
 
 user_groups: 
-- Grad Students
+- Grad. Students
 
 weight: 10
 
