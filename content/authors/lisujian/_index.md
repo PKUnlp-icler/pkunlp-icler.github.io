@@ -3,7 +3,14 @@
 title: Sujian Li
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
+
+# Username (this should match the folder name)
+authors:
+  - Sujian Li
+
+user_groups: 
+- Principal Investigators
 
 # Role/position/tagline
 role: Professor of Artificial Intelligence

@@ -19,8 +19,8 @@ main:
   - name: Projects
     url: '#5-projects'
     weight: 50
-  - name: Cources
-    url: '#6-cources'
+  - name: Courses
+    url: '#6-courses'
     weight: 60
   - name: People
     url: '#7-people'
