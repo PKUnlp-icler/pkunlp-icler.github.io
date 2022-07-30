@@ -1,7 +1,7 @@
 ---
-# An instance of the Experience widget.
+# An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: accomplishments
 
 # This file represents a page section.
 headless: true
@@ -9,42 +9,32 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Academic Services
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Academic Services'
 subtitle:
 
-# Date format for experience
+# Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+item:
+  - date_end: '2022'
+    date_start: '2022'
+    description: ''
+    organization: AACL 2022
+    title: PC Co-Chair
+  - date_end: '2022'
+    date_start: '2022'
+    description: ''
+    organization: CCL 2022
+    title: PC Co-Chair
 
 design:
   columns: '2'
+  view: 2
 ---
