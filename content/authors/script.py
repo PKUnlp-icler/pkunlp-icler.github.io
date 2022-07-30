@@ -19,8 +19,8 @@ alumni_list = [
     "Zhejian Zhou",
 ]
 
-src_path = "./liyang/_index.md"
-src_name = "Yang Li"
+src_path = "./caoziqiang/_index.md"
+src_name = "Ziqiang Cao"
 
 for idx, name in enumerate(alumni_list):
     dir_name = name.split(" ")
@@ -37,4 +37,4 @@ for idx, name in enumerate(alumni_list):
 
     os.system(f"sed -i 's/10/{num}/g' {dest_dir+'_index.md'}")
     
-    os.system(f"sed -i 's/active: false/active: true/g' {dest_dir+'_index.md'}")
+    break
