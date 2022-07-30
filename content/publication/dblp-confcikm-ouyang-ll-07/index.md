@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Developing learning strategies for topic-based summarization
+title: Developing Learning Strategies for Topic-Based Summarization
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2007-01-01'
-lastmod: 2022-07-30T20:29:38+08:00
+lastmod: 2022-07-30T21:02:48+08:00
 featured: false
 draft: false
 
@@ -29,14 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:37.991193Z'
+publishDate: '2022-07-30T13:02:48.383043Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Sixteenth ACM Conference on Information and Knowledge
   Management, CIKM 2007, Lisbon, Portugal, November 6-10, 2007*'
 doi: 10.1145/1321440.1321454
-links:
-- name: URL
-  url: https://doi.org/10.1145/1321440.1321454
 ---

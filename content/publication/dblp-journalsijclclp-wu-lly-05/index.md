@@ -1,9 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'n̆icode21452ĭcode21521uc̆ode32771unŏde23519unid̆e21644unicĕ39511unicŏ35657,:,unicod2̆4182unicode1̆015unicode1̆04unicode29̆8unicode203̆unicode245̆unicode3548̆unicode30340̆unicode35486̆unicode32681ŭnicode38364n̆icode20418ĭcode21644CCDŭnicode30340unŏde21517unid̆e35422unicĕ35486unicŏ32681unicod2̆0998unicode9̆006unicode3̆07unicode39̆5
-  (Bidirectiol̆ Investigation: The Semantic Relations between the Conjuncts and the
-  Noun Taxonomy in CCD)'
+title: '双向考察和驗證: 并列成分中心語的語義關係和 CCD 的名詞語義分類体系 (Bidirectional Investigation: The Semantic
+  Relations between the Conjuncts and the Noun Taxonomy in CCD)'
 subtitle: ''
 summary: ''
 authors:
@@ -14,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2022-07-30T20:29:40+08:00
+lastmod: 2022-07-30T21:03:41+08:00
 featured: false
 draft: false
 
@@ -32,10 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:40.084953Z'
+publishDate: '2022-07-30T13:03:41.245771Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Int. J. Comput. Linguistics Chin. Lang. Process.*'
-url_pdf: http://www.aclclp.org.tw/clclp/v10n4/v10n4a11.pdf
 ---

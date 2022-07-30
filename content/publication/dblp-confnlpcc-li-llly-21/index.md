@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-07-30T20:28:13+08:00
+lastmod: 2022-07-30T21:03:23+08:00
 featured: false
 draft: false
 
@@ -31,14 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:12.562743Z'
+publishDate: '2022-07-30T13:03:23.208839Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Natural Language Processing and Chinese Computing - 10th CCF International
   Conference, NLPCC 2021, Qingdao, China, October 13-17, 2021, Proceedings, Part II*'
 doi: 10.1007/978-3-030-88483-3_50
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-030-88483-3_50
 ---

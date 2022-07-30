@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2003-01-01'
-lastmod: 2022-07-30T20:29:42+08:00
+lastmod: 2022-07-30T21:02:34+08:00
 featured: false
 draft: false
 
@@ -30,14 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:42.345121Z'
+publishDate: '2022-07-30T13:02:34.437149Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Second Workshop on Chinese Language Processing,
   SIGHAN 2003, Sapporo, Japan, July 11-12, 2003*'
 doi: 10.3115/1119250.1119263
-links:
-- name: URL
-  url: https://aclanthology.org/W03-1713/
 ---

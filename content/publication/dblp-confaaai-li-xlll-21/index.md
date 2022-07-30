@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-07-30T20:28:09+08:00
+lastmod: 2022-07-30T21:02:32+08:00
 featured: false
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:09.435706Z'
+publishDate: '2022-07-30T13:02:31.881315Z'
 publication_types:
 - '1'
 abstract: ''
@@ -40,7 +40,4 @@ publication: '*Combating Online Hostile Posts in Regional Languages during Emerg
   Situation - First International Workshop, CONSTRAINT 2021, Collocated with AAAI
   2021, Virtual Event, February 8, 2021, Revised Selected Papers*'
 doi: 10.1007/978-3-030-73696-5_11
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-030-73696-5_11
 ---

@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-07-30T20:28:58+08:00
+lastmod: 2022-07-30T21:02:42+08:00
 featured: false
 draft: false
 
@@ -32,14 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:57.957522Z'
+publishDate: '2022-07-30T13:02:41.576903Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 54th Annual Meeting of the Association for Computational
   Linguistics, ACL 2016, August 7-12, 2016, Berlin, Germany, Volume 1: Long Papers*'
 doi: 10.18653/v1/p16-1116
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/p16-1116
 ---

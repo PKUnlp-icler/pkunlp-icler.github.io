@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Context-aware Entity Morph Decoding
+title: Context-Aware Entity Morph Decoding
 subtitle: ''
 summary: ''
 authors:
@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2022-07-30T20:29:13+08:00
+lastmod: 2022-07-30T21:02:46+08:00
 featured: false
 draft: false
 
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:12.644634Z'
+publishDate: '2022-07-30T13:02:45.651018Z'
 publication_types:
 - '1'
 abstract: ''
@@ -46,7 +46,4 @@ publication: '*Proceedings of the 53rd Annual Meeting of the Association for Com
   of the Asian Federation of Natural Language Processing, ACL 2015, July 26-31, 2015,
   Beijing, China, Volume 1: Long Papers*'
 doi: 10.3115/v1/p15-1057
-links:
-- name: URL
-  url: https://doi.org/10.3115/v1/p15-1057
 ---

@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-07-30T20:28:17+08:00
+lastmod: 2022-07-30T21:02:40+08:00
 featured: false
 draft: false
 
@@ -29,14 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:17.215043Z'
+publishDate: '2022-07-30T13:02:40.027778Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 58th Annual Meeting of the Association for Computational
   Linguistics, ACL 2020, Online, July 5-10, 2020*'
 doi: 10.18653/v1/2020.acl-main.551
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/2020.acl-main.551
 ---

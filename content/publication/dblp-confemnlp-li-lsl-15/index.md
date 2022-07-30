@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2022-07-30T20:29:13+08:00
+lastmod: 2022-07-30T21:03:05+08:00
 featured: false
 draft: false
 
@@ -30,14 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:13.220189Z'
+publishDate: '2022-07-30T13:03:05.161562Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 2015 Conference on Empirical Methods in Natural
   Language Processing, EMNLP 2015, Lisbon, Portugal, September 17-21, 2015*'
 doi: 10.18653/v1/d15-1098
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/d15-1098
 ---

@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2004-01-01'
-lastmod: 2022-07-30T20:29:42+08:00
+lastmod: 2022-07-30T21:02:48+08:00
 featured: false
 draft: false
 
@@ -30,14 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:41.746224Z'
+publishDate: '2022-07-30T13:02:47.872606Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Computational Linguistics and Intelligent Text Processing, 5th International
   Conference, CICLing 2004, Seoul, Korea, February 15-21, 2004, Proceedings*'
 doi: 10.1007/978-3-540-24630-5_54
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-540-24630-5_54
 ---

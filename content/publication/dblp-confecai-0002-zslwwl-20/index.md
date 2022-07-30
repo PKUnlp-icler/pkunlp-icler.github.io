@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-07-30T20:28:19+08:00
+lastmod: 2022-07-30T21:03:01+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:19.256937Z'
+publishDate: '2022-07-30T13:03:01.100961Z'
 publication_types:
 - '1'
 abstract: ''
@@ -42,7 +42,4 @@ publication: '*ECAI 2020 - 24th European Conference on Artificial Intelligence, 
   2020 - Including 10th Conference on Prestigious Applications of Artificial Intelligence
   (PAIS 2020)*'
 doi: 10.3233/FAIA200356
-links:
-- name: URL
-  url: https://doi.org/10.3233/FAIA200356
 ---

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Denoising based Sequence-to-Sequence Pre-training for Text Generation
+title: Denoising Based Sequence-to-Sequence Pre-Training for Text Generation
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-30T20:28:28+08:00
+lastmod: 2022-07-30T21:03:11+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:28.041298Z'
+publishDate: '2022-07-30T13:03:11.234672Z'
 publication_types:
 - '1'
 abstract: ''
@@ -39,7 +39,4 @@ publication: '*Proceedings of the 2019 Conference on Empirical Methods in Natura
   Language Processing and the 9th International Joint Conference on Natural Language
   Processing, EMNLP-IJCNLP 2019, Hong Kong, China, November 3-7, 2019*'
 doi: 10.18653/v1/D19-1412
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/D19-1412
 ---

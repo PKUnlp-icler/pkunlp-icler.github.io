@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-07-30T20:28:17+08:00
+lastmod: 2022-07-30T21:02:31+08:00
 featured: false
 draft: false
 
@@ -33,15 +33,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:16.709511Z'
+publishDate: '2022-07-30T13:02:30.872665Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*The Thirty-Fourth AAAI Conference on Artificial Intelligence, AAAI
-  2020, The Thirty-Second Innovative Applications of Artificial Intelligence Conference,
-  IAAI 2020, The Tenth AAAI Symposium on Educational Advances in Artificial Intelligence,
+  2020, the Thirty-Second Innovative Applications of Artificial Intelligence Conference,
+  IAAI 2020, the Tenth AAAI Symposium on Educational Advances in Artificial Intelligence,
   EAAI 2020, New York, NY, USA, February 7-12, 2020*'
-links:
-- name: URL
-  url: https://ojs.aaai.org/index.php/AAAI/article/view/6357
 ---

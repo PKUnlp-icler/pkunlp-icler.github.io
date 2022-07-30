@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Entity-centric topic-oriented opinion summarization in twitter
+title: Entity-Centric Topic-Oriented Opinion Summarization in Twitter
 subtitle: ''
 summary: ''
 authors:
@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2022-07-30T20:29:27+08:00
+lastmod: 2022-07-30T21:03:17+08:00
 featured: false
 draft: false
 
@@ -32,14 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:27.204860Z'
+publishDate: '2022-07-30T13:03:17.222080Z'
 publication_types:
 - '1'
 abstract: ''
 publication: "*The 18th ACM SIGKDD International Conference on Knowledge Discovery\
   \ and Data Mining, KDD '12, Beijing, China, August 12-16, 2012*"
 doi: 10.1145/2339530.2339592
-links:
-- name: URL
-  url: https://doi.org/10.1145/2339530.2339592
 ---

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Machine Reading Comprehension: a Literature Review'
+title: 'Machine Reading Comprehension: A Literature Review'
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-30T20:28:31+08:00
+lastmod: 2022-07-30T21:03:36+08:00
 featured: false
 draft: false
 
@@ -30,12 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:31.149512Z'
+publishDate: '2022-07-30T13:03:36.259279Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*CoRR*'
 links:
-- name: URL
-  url: http://arxiv.org/abs/1907.01686
+- name: arXiv
+  url: https://arxiv.org/abs/1907.01686
 ---

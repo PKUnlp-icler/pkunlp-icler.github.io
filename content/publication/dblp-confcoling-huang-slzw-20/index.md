@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-07-30T20:28:19+08:00
+lastmod: 2022-07-30T21:02:56+08:00
 featured: false
 draft: false
 
@@ -31,14 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:18.750762Z'
+publishDate: '2022-07-30T13:02:56.487359Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 28th International Conference on Computational Linguistics,
   COLING 2020, Barcelona, Spain (Online), December 8-13, 2020*'
 doi: 10.18653/v1/2020.coling-main.69
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/2020.coling-main.69
 ---

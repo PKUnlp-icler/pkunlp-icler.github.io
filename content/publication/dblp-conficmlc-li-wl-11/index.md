@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Exploring strategies for developing link analysis based question-oriented multi-document
-  summarization models
+title: Exploring Strategies for Developing Link Analysis Based Question-Oriented Multi-Document
+  Summarization Models
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2022-07-30T20:29:29+08:00
+lastmod: 2022-07-30T21:03:14+08:00
 featured: false
 draft: false
 
@@ -30,14 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:28.801368Z'
+publishDate: '2022-07-30T13:03:13.705063Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*International Conference on Machine Learning and Cybernetics, ICMLC
   2011, Guilin, China, July 10-13, 2011, Proceedings*'
 doi: 10.1109/ICMLC.2011.6016951
-links:
-- name: URL
-  url: https://doi.org/10.1109/ICMLC.2011.6016951
 ---

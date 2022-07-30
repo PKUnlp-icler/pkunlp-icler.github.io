@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-07-30T20:28:20+08:00
+lastmod: 2022-07-30T21:03:33+08:00
 featured: false
 draft: false
 
@@ -32,13 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:20.299719Z'
+publishDate: '2022-07-30T13:03:33.264621Z'
 publication_types:
 - '1'
 abstract: ''
 publication: "*WWW '20: The Web Conference 2020, Taipei, Taiwan, April 20-24, 2020*"
 doi: 10.1145/3366423.3379998
-links:
-- name: URL
-  url: https://doi.org/10.1145/3366423.3379998
 ---

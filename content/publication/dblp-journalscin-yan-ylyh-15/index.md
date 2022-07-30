@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2022-07-30T20:29:09+08:00
+lastmod: 2022-07-30T21:03:34+08:00
 featured: false
 draft: false
 
@@ -31,13 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:09.051419Z'
+publishDate: '2022-07-30T13:03:34.262528Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Comput. Intell. Neurosci.*'
+publication: ''
 doi: 10.1155/2015/650527
-links:
-- name: URL
-  url: https://doi.org/10.1155/2015/650527
 ---

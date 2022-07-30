@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Research on duplicate combined forecasting method based on supply chain coordination
+title: Research on Duplicate Combined Forecasting Method Based on Supply Chain Coordination
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-30T20:28:23+08:00
+lastmod: 2022-07-30T21:03:35+08:00
 featured: false
 draft: false
 
@@ -29,13 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:22.890172Z'
+publishDate: '2022-07-30T13:03:34.775916Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Clust. Comput.*'
+publication: ''
 doi: 10.1007/s10586-018-2356-z
-links:
-- name: URL
-  url: https://doi.org/10.1007/s10586-018-2356-z
 ---

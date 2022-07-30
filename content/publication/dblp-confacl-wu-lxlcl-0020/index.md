@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-07-30T20:28:10+08:00
+lastmod: 2022-07-30T21:02:43+08:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:10.474208Z'
+publishDate: '2022-07-30T13:02:42.572440Z'
 publication_types:
 - '1'
 abstract: ''
@@ -42,7 +42,4 @@ publication: '*Proceedings of the 59th Annual Meeting of the Association for Com
   Linguistics and the 11th International Joint Conference on Natural Language Processing,
   ACL/IJCNLP 2021, (Volume 1: Long Papers), Virtual Event, August 1-6, 2021*'
 doi: 10.18653/v1/2021.acl-long.472
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/2021.acl-long.472
 ---

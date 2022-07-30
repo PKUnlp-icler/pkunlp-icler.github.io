@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2009-01-01'
-lastmod: 2022-07-30T20:29:35+08:00
+lastmod: 2022-07-30T21:03:30+08:00
 featured: false
 draft: false
 
@@ -29,11 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:35.344187Z'
+publishDate: '2022-07-30T13:03:30.227760Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Second Text Analysis Conference, TAC 2009, Gaithersburg,
   Maryland, USA, November 16-17, 2009*'
-url_pdf: https://tac.nist.gov/publications/2009/participant.papers/ICL_SUM.proceedings.pdf
 ---

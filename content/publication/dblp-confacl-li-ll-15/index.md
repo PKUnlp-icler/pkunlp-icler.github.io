@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2022-07-30T20:29:12+08:00
+lastmod: 2022-07-30T21:02:38+08:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:11.620446Z'
+publishDate: '2022-07-30T13:02:38.022376Z'
 publication_types:
 - '1'
 abstract: ''
@@ -38,7 +38,4 @@ publication: '*Proceedings of the 53rd Annual Meeting of the Association for Com
   of the Asian Federation of Natural Language Processing, ACL 2015, July 26-31, 2015,
   Beijing, China, Volume 2: Short Papers*'
 doi: 10.3115/v1/p15-2102
-links:
-- name: URL
-  url: https://doi.org/10.3115/v1/p15-2102
 ---

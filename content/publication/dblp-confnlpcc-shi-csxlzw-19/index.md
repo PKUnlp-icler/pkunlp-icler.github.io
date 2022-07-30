@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'We Know What You Will Ask: A Dialogue System for Multi-intent Switch and Prediction'
+title: 'We Know What You Will Ask: A Dialogue System for Multi-Intent Switch and Prediction'
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-30T20:28:30+08:00
+lastmod: 2022-07-30T21:03:25+08:00
 featured: false
 draft: false
 
@@ -33,14 +33,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:29.576743Z'
+publishDate: '2022-07-30T13:03:24.724223Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Natural Language Processing and Chinese Computing - 8th CCF International
   Conference, NLPCC 2019, Dunhuang, China, October 9-14, 2019, Proceedings, Part I*'
 doi: 10.1007/978-3-030-32233-5_8
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-030-32233-5_8
 ---

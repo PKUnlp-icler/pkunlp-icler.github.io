@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-07-30T20:28:57+08:00
+lastmod: 2022-07-30T21:02:31+08:00
 featured: false
 draft: false
 
@@ -30,13 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:57.368299Z'
+publishDate: '2022-07-30T13:02:31.385913Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence,
   February 12-17, 2016, Phoenix, Arizona, USA*'
-links:
-- name: URL
-  url: http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11831
 ---

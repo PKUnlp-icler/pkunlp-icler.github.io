@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2008-01-01'
-lastmod: 2022-07-30T20:29:36+08:00
+lastmod: 2022-07-30T21:03:27+08:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:36.384544Z'
+publishDate: '2022-07-30T13:03:26.724292Z'
 publication_types:
 - '1'
 abstract: ''
@@ -37,5 +37,4 @@ publication: '*Proceedings of the 7th NTCIR Workshop Meeting on Evaluation of In
   Access Technologies: Information Retrieval, Question Answering and Cross-Lingual
   Information Access, NTCIR-7, National Center of Sciences, Tokyo, Japan, December
   16-19, 2008*'
-url_pdf: http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings7/pdf/NTCIR7/C3/PATMN/13-NTCIR7-PATMN-WangW.pdf
 ---

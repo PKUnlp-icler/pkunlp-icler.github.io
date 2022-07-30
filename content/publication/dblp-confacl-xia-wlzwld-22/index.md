@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-07-30T20:28:08+08:00
+lastmod: 2022-07-30T21:02:44+08:00
 featured: false
 draft: false
 
@@ -34,13 +34,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:07.866133Z'
+publishDate: '2022-07-30T13:02:43.622829Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Findings of the Association for Computational Linguistics: ACL 2022,
   Dublin, Ireland, May 22-27, 2022*'
-links:
-- name: URL
-  url: https://aclanthology.org/2022.findings-acl.179
 ---

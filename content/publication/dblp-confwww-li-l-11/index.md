@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Hypergraph-based inductive learning for generating implicit key phrases
+title: Hypergraph-Based Inductive Learning for Generating Implicit Key Phrases
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2011-01-01'
-lastmod: 2022-07-30T20:29:29+08:00
+lastmod: 2022-07-30T21:03:33+08:00
 featured: false
 draft: false
 
@@ -28,14 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:29.329160Z'
+publishDate: '2022-07-30T13:03:32.762485Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 20th International Conference on World Wide Web,
   WWW 2011, Hyderabad, India, March 28 - April 1, 2011 (Companion Volume)*'
 doi: 10.1145/1963192.1963232
-links:
-- name: URL
-  url: https://doi.org/10.1145/1963192.1963232
 ---

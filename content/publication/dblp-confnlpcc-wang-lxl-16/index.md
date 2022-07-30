@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-07-30T20:29:05+08:00
+lastmod: 2022-07-30T21:03:26+08:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:05.340337Z'
+publishDate: '2022-07-30T13:03:25.711590Z'
 publication_types:
 - '1'
 abstract: ''
@@ -40,7 +40,4 @@ publication: '*Natural Language Understanding and Intelligent Applications - 5th
   24th International Conference on Computer Processing of Oriental Languages, ICCPOL
   2016, Kunming, China, December 2-6, 2016, Proceedings*'
 doi: 10.1007/978-3-319-50496-4_15
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-319-50496-4_15
 ---

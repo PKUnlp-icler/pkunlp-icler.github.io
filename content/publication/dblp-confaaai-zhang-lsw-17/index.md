@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2022-07-30T20:28:49+08:00
+lastmod: 2022-07-30T21:02:33+08:00
 featured: false
 draft: false
 
@@ -31,13 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:49.371328Z'
+publishDate: '2022-07-30T13:02:32.915781Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence,
   February 4-9, 2017, San Francisco, California, USA*'
-links:
-- name: URL
-  url: http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14611
 ---

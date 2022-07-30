@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Why Read if You Can Scan? Trigger Scoping Strategy for Biographical Fact Extraction
+title: Why Read If You Can Scan? Trigger Scoping Strategy for Biographical Fact Extraction
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2022-07-30T20:29:14+08:00
+lastmod: 2022-07-30T21:03:21+08:00
 featured: false
 draft: false
 
@@ -30,15 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:14.307374Z'
+publishDate: '2022-07-30T13:03:20.703085Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*NAACL HLT 2015, The 2015 Conference of the North American Chapter of
+publication: '*NAACL HLT 2015, the 2015 Conference of the North American Chapter of
   the Association for Computational Linguistics: Human Language Technologies, Denver,
   Colorado, USA, May 31 - June 5, 2015*'
 doi: 10.3115/v1/n15-1126
-links:
-- name: URL
-  url: https://doi.org/10.3115/v1/n15-1126
 ---

@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2005-01-01'
-lastmod: 2022-07-30T20:29:41+08:00
+lastmod: 2022-07-30T21:03:12+08:00
 featured: false
 draft: false
 
@@ -29,14 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:40.633807Z'
+publishDate: '2022-07-30T13:03:11.724251Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Fuzzy Systems and Knowledge Discovery, Second International Conference,
   FSKD 2005, Changsha, China, August 27-29, 2005, Proceedings, Part II*'
 doi: 10.1007/11540007_80
-links:
-- name: URL
-  url: https://doi.org/10.1007/11540007_80
 ---

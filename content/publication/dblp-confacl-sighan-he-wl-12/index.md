@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2022-07-30T20:29:24+08:00
+lastmod: 2022-07-30T21:02:34+08:00
 featured: false
 draft: false
 
@@ -30,13 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:24.079630Z'
+publishDate: '2022-07-30T13:02:33.923417Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Second CIPS-SIGHAN Joint Conference on Chinese Language
   Processing, Tianjin, China, December 20-21, 2012*'
-links:
-- name: URL
-  url: https://aclanthology.org/W12-6321/
 ---

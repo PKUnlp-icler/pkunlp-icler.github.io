@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Reverse Operation based Data Augmentation for Solving Math Word Problems
+title: Reverse Operation Based Data Augmentation for Solving Math Word Problems
 subtitle: ''
 summary: ''
 authors:
@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-07-30T20:28:22+08:00
+lastmod: 2022-07-30T21:03:38+08:00
 featured: false
 draft: false
 
@@ -32,12 +32,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:22.367568Z'
+publishDate: '2022-07-30T13:03:37.752291Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*CoRR*'
 links:
-- name: URL
+- name: arXiv
   url: https://arxiv.org/abs/2010.01556
 ---

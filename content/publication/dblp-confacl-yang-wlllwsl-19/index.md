@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-30T20:28:24+08:00
+lastmod: 2022-07-30T21:02:45+08:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:24.431448Z'
+publishDate: '2022-07-30T13:02:45.142477Z'
 publication_types:
 - '1'
 abstract: ''
@@ -43,7 +43,4 @@ publication: '*Proceedings of the 57th Conference of the Association for Computa
   Linguistics, ACL 2019, Florence, Italy, July 28- August 2, 2019, Volume 1: Long
   Papers*'
 doi: 10.18653/v1/p19-1226
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/p19-1226
 ---
