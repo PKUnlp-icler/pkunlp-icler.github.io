@@ -24,20 +24,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - date_end: '2022-06'
-    date_start: '2022-03'
+    date_start: '2022-02'
     description: ''
     organization: PKU EECS
     title: Principles of Compilers
     url: 'https://pku-tangent.github.io/Compiler2022/'
-  - date_end: ''
-    date_start: 'Fall, 2021 '
+  - date_end: '2022-01'
+    date_start: '2021-09'
     description: ''
     organization: PKU EECS
     organization_url: ''
     title: Set Theory and Graph Theory
     url: http://123.56.88.210/discretemath.htm
-  - date_end: ''
-    date_start: '2020 Fall'
+  - date_end: '2021-01'
+    date_start: '2020-09'
     description: ''
     organization: PKU EECS
     organization_url: ''
