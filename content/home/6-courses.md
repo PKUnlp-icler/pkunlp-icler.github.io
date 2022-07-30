@@ -23,21 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: '2022-06'
-    date_start: '2022-02'
+  - date_end: '2022-06-01'
+    date_start: '2022-02-01'
     description: ''
     organization: PKU EECS
     title: Principles of Compilers
     url: 'https://pku-tangent.github.io/Compiler2022/'
-  - date_end: '2022-01'
-    date_start: '2021-09'
+  - date_end: '2022-01-01'
+    date_start: '2021-09-01'
     description: ''
     organization: PKU EECS
     organization_url: ''
     title: Set Theory and Graph Theory
     url: http://123.56.88.210/discretemath.htm
-  - date_end: '2021-01'
-    date_start: '2020-09'
+  - date_end: '2021-01-01'
+    date_start: '2020-09-01'
     description: ''
     organization: PKU EECS
     organization_url: ''
