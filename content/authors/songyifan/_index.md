@@ -12,6 +12,8 @@ authors:
 user_groups: 
 - Phd Students
 
+weight: 20
+
 # Role/position/tagline
 role: Phd Student
 
