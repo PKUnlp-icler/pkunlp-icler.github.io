@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: News Stream Summarization using Burst Information Networks
+title: News Stream Summarization Using Burst Information Networks
 subtitle: ''
 summary: ''
 authors:
@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-07-30T20:29:01+08:00
+lastmod: 2022-07-30T21:03:03+08:00
 featured: false
 draft: false
 
@@ -32,14 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:01.225302Z'
+publishDate: '2022-07-30T13:03:02.626704Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 2016 Conference on Empirical Methods in Natural
   Language Processing, EMNLP 2016, Austin, Texas, USA, November 1-4, 2016*'
 doi: 10.18653/v1/d16-1075
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/d16-1075
 ---

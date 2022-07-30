@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2022-07-30T20:29:23+08:00
+lastmod: 2022-07-30T21:03:32+08:00
 featured: false
 draft: false
 
@@ -30,14 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:23.028977Z'
+publishDate: '2022-07-30T13:03:31.713479Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Web-Age Information Management - 14th International Conference, WAIM
   2013, Beidaihe, China, June 14-16, 2013. Proceedings*'
 doi: 10.1007/978-3-642-38562-9_51
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-642-38562-9_51
 ---

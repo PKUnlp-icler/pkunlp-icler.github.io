@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: n̆icode22522ĭcode26044uc̆ode12298unŏde30693unid̆e32178unicĕ12299unicŏ30340unicod3̆6781unicode4̆409unicode4̆86unicode38̆1unicode306̆unicode202̆unicode2423̆unicode35336̆unicode31639(̆Word
-  Similarity Computing Based on How-net)
+title: 基于《知网》的词汇语义相似度计算(Word Similarity Computing Based on How-Net)
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2002-01-01'
-lastmod: 2022-07-30T20:29:44+08:00
+lastmod: 2022-07-30T21:03:41+08:00
 featured: false
 draft: false
 
@@ -29,10 +28,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:43.502411Z'
+publishDate: '2022-07-30T13:03:40.739740Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*Int. J. Comput. Linguistics Chin. Lang. Process.*'
-url_pdf: http://www.aclclp.org.tw/clclp/v7n2/v7n2a3.pdf
 ---

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Reading and Thinking: Re-read LSTM Unit for Textual Entailment Recognition'
+title: 'Reading and Thinking: Re-Read LSTM Unit for Textual Entailment Recognition'
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-07-30T20:29:01+08:00
+lastmod: 2022-07-30T21:02:59+08:00
 featured: false
 draft: false
 
@@ -30,13 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:00.573788Z'
+publishDate: '2022-07-30T13:02:58.606863Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*COLING 2016, 26th International Conference on Computational Linguistics,
   Proceedings of the Conference: Technical Papers, December 11-16, 2016, Osaka, Japan*'
-links:
-- name: URL
-  url: https://aclanthology.org/C16-1270/
 ---

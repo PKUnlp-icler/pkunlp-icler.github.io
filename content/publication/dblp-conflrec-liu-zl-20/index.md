@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2022-07-30T20:28:20+08:00
+lastmod: 2022-07-30T21:03:18+08:00
 featured: false
 draft: false
 
@@ -29,13 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:19.790070Z'
+publishDate: '2022-07-30T13:03:18.219610Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of The 12th Language Resources and Evaluation Conference,
+publication: '*Proceedings of the 12th Language Resources and Evaluation Conference,
   LREC 2020, Marseille, France, May 11-16, 2020*'
-links:
-- name: URL
-  url: https://aclanthology.org/2020.lrec-1.210/
 ---

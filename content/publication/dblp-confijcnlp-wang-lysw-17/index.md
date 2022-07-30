@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2022-07-30T20:28:52+08:00
+lastmod: 2022-07-30T21:03:16+08:00
 featured: false
 draft: false
 
@@ -32,14 +32,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:52.491323Z'
+publishDate: '2022-07-30T13:03:16.234827Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Eighth International Joint Conference on Natural
   Language Processing, IJCNLP 2017, Taipei, Taiwan, November 27 - December 1, 2017
   - Volume 1: Long Papers*'
-links:
-- name: URL
-  url: https://aclanthology.org/I17-1050/
 ---

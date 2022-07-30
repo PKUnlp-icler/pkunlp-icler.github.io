@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-30T20:28:25+08:00
+lastmod: 2022-07-30T21:02:47+08:00
 featured: false
 draft: false
 
@@ -31,15 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:24.962868Z'
+publishDate: '2022-07-30T13:02:47.322186Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Bio-inspired Computing: Theories and Applications - 14th International
+publication: '*Bio-Inspired Computing: Theories and Applications - 14th International
   Conference, BIC-TA 2019, Zhengzhou, China, November 22-25, 2019, Revised Selected
   Papers, Part I*'
 doi: 10.1007/978-981-15-3425-6_27
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-981-15-3425-6_27
 ---

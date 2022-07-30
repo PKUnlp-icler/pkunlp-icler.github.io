@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Zero-shot Chinese Discourse Dependency Parsing via Cross-lingual Mapping
+title: Zero-Shot Chinese Discourse Dependency Parsing via Cross-Lingual Mapping
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-30T20:28:34+08:00
+lastmod: 2022-07-30T21:03:37+08:00
 featured: false
 draft: false
 
@@ -28,12 +28,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:34.241372Z'
+publishDate: '2022-07-30T13:03:37.270997Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*CoRR*'
 links:
-- name: URL
-  url: http://arxiv.org/abs/1911.12014
+- name: arXiv
+  url: https://arxiv.org/abs/1911.12014
 ---

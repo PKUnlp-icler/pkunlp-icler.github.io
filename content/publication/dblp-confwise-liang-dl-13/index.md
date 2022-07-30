@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2022-07-30T20:29:24+08:00
+lastmod: 2022-07-30T21:03:32+08:00
 featured: false
 draft: false
 
@@ -30,14 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:23.549967Z'
+publishDate: '2022-07-30T13:03:32.196516Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Web Information Systems Engineering - WISE 2013 - 14th International
   Conference, Nanjing, China, October 13-15, 2013, Proceedings, Part II*'
 doi: 10.1007/978-3-642-41154-0_23
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-642-41154-0_23
 ---

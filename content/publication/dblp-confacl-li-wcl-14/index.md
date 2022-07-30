@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Text-level Discourse Dependency Parsing
+title: Text-Level Discourse Dependency Parsing
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2022-07-30T20:29:17+08:00
+lastmod: 2022-07-30T21:02:39+08:00
 featured: false
 draft: false
 
@@ -30,14 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:16.979694Z'
+publishDate: '2022-07-30T13:02:39.519589Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 52nd Annual Meeting of the Association for Computational
   Linguistics, ACL 2014, June 22-27, 2014, Baltimore, MD, USA, Volume 1: Long Papers*'
 doi: 10.3115/v1/p14-1003
-links:
-- name: URL
-  url: https://doi.org/10.3115/v1/p14-1003
 ---

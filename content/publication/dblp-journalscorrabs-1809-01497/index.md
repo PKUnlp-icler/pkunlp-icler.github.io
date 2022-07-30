@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-07-30T20:28:48+08:00
+lastmod: 2022-07-30T21:03:36+08:00
 featured: false
 draft: false
 
@@ -28,12 +28,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:47.807413Z'
+publishDate: '2022-07-30T13:03:35.776891Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*CoRR*'
 links:
-- name: URL
-  url: http://arxiv.org/abs/1809.01497
+- name: arXiv
+  url: https://arxiv.org/abs/1809.01497
 ---

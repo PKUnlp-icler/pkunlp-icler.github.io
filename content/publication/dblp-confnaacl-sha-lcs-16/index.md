@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-07-30T20:29:04+08:00
+lastmod: 2022-07-30T21:03:20+08:00
 featured: false
 draft: false
 
@@ -30,15 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:03.812217Z'
+publishDate: '2022-07-30T13:03:20.194997Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*NAACL HLT 2016, The 2016 Conference of the North American Chapter of
+publication: '*NAACL HLT 2016, the 2016 Conference of the North American Chapter of
   the Association for Computational Linguistics: Human Language Technologies, San
   Diego California, USA, June 12-17, 2016*'
 doi: 10.18653/v1/n16-1049
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/n16-1049
 ---

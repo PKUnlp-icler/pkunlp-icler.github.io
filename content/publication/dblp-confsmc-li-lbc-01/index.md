@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Automatic extraction of lexical relations from Chinese machine readable dictionary
+title: Automatic Extraction of Lexical Relations from Chinese Machine Readable Dictionary
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2001-01-01'
-lastmod: 2022-07-30T20:29:45+08:00
+lastmod: 2022-07-30T21:03:29+08:00
 featured: false
 draft: false
 
@@ -30,15 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:45.437127Z'
+publishDate: '2022-07-30T13:03:29.212741Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the IEEE International Conference on Systems, Man &
-  Cybernetics: \"e-Systems and e-Man for Cybernetics in Cyberspace\", Tucson, Arizona,
+  Cybernetics: \"E-Systems and e-Man for Cybernetics in Cyberspace\", Tucson, Arizona,
   USA, 7-10 October 2001*'
 doi: 10.1109/ICSMC.2001.972884
-links:
-- name: URL
-  url: https://doi.org/10.1109/ICSMC.2001.972884
 ---

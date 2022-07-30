@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2006-01-01'
-lastmod: 2022-07-30T20:29:39+08:00
+lastmod: 2022-07-30T21:03:19+08:00
 featured: false
 draft: false
 
@@ -29,13 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:39.034458Z'
+publishDate: '2022-07-30T13:03:18.715499Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Fifth International Conference on Language Resources
   and Evaluation, LREC 2006, Genoa, Italy, May 22-28, 2006*'
-links:
-- name: URL
-  url: http://www.lrec-conf.org/proceedings/lrec2006/summaries/799.html
 ---

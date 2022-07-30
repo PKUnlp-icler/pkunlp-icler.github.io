@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-07-30T20:28:08+08:00
+lastmod: 2022-07-30T21:03:19+08:00
 featured: false
 draft: false
 
@@ -30,14 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:08.397067Z'
+publishDate: '2022-07-30T13:03:19.218926Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 2022 Conference of the North American Chapter of
   the Association for Computational Linguistics: Human Language Technologies, NAACL
   2022, Seattle, WA, United States, July 10-15, 2022*'
-links:
-- name: URL
-  url: https://aclanthology.org/2022.naacl-main.220
 ---

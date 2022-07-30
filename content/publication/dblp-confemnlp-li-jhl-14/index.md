@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2014-01-01'
-lastmod: 2022-07-30T20:29:19+08:00
+lastmod: 2022-07-30T21:03:05+08:00
 featured: false
 draft: false
 
@@ -30,15 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:18.578962Z'
+publishDate: '2022-07-30T13:03:04.660592Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 2014 Conference on Empirical Methods in Natural
-  Language Processing, EMNLP 2014, October 25-29, 2014, Doha, Qatar, A meeting of
+  Language Processing, EMNLP 2014, October 25-29, 2014, Doha, Qatar, A Meeting of
   SIGDAT, a Special Interest Group of the ACL*'
 doi: 10.3115/v1/d14-1198
-links:
-- name: URL
-  url: https://doi.org/10.3115/v1/d14-1198
 ---

@@ -14,7 +14,7 @@ authors:
 tags: []
 categories: []
 date: '2010-01-01'
-lastmod: 2022-07-30T20:29:31+08:00
+lastmod: 2022-07-30T21:02:38+08:00
 featured: false
 draft: false
 
@@ -32,13 +32,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:31.177223Z'
+publishDate: '2022-07-30T13:02:38.517952Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*ACL 2010, Proceedings of the 48th Annual Meeting of the Association
   for Computational Linguistics, July 11-16, 2010, Uppsala, Sweden, Short Papers*'
-links:
-- name: URL
-  url: https://aclanthology.org/P10-2055/
 ---

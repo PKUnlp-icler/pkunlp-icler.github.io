@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Scientific Keyphrase Extraction: Extracting Candidates with Semi-supervised
+title: 'Scientific Keyphrase Extraction: Extracting Candidates with Semi-Supervised
   Data Augmentation'
 subtitle: ''
 summary: ''
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-07-30T20:28:38+08:00
+lastmod: 2022-07-30T21:02:53+08:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:38.392879Z'
+publishDate: '2022-07-30T13:02:53.382308Z'
 publication_types:
 - '1'
 abstract: ''
@@ -39,7 +39,4 @@ publication: '*Chinese Computational Linguistics and Natural Language Processing
   6th International Symposium, NLP-NABD 2018, Changsha, China, October 19-21, 2018,
   Proceedings*'
 doi: 10.1007/978-3-030-01716-3_16
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-030-01716-3_16
 ---

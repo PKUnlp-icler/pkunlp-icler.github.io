@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-30T20:28:23+08:00
+lastmod: 2022-07-30T21:02:33+08:00
 featured: false
 draft: false
 
@@ -31,13 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:23.407220Z'
+publishDate: '2022-07-30T13:02:33.418971Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the The 17th Annual Workshop of the Australasian Language
+publication: '*Proceedings of the the 17th Annual Workshop of the Australasian Language
   Technology Association, ALTA 2019, Sydney, Australia, December 4-6, 2019*'
-links:
-- name: URL
-  url: https://aclanthology.org/U19-1024/
 ---

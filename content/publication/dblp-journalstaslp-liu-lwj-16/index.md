@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Relation Classification Via Modeling Augmented Dependency Paths
+title: Relation Classification via Modeling Augmented Dependency Paths
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-07-30T20:28:56+08:00
+lastmod: 2022-07-30T21:03:46+08:00
 featured: false
 draft: false
 
@@ -30,13 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:56.268034Z'
+publishDate: '2022-07-30T13:03:45.809011Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE ACM Trans. Audio Speech Lang. Process.*'
 doi: 10.1109/TASLP.2016.2573050
-links:
-- name: URL
-  url: https://doi.org/10.1109/TASLP.2016.2573050
 ---

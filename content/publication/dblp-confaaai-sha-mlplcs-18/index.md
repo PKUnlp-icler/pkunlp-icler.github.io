@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Order-Planning Neural Text Generation From Structured Data
+title: Order-Planning Neural Text Generation from Structured Data
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-07-30T20:28:36+08:00
+lastmod: 2022-07-30T21:02:32+08:00
 featured: false
 draft: false
 
@@ -33,15 +33,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:35.834730Z'
+publishDate: '2022-07-30T13:02:32.380959Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence,
-  (AAAI-18), the 30th innovative Applications of Artificial Intelligence (IAAI-18),
+  (AAAI-18), the 30th Innovative Applications of Artificial Intelligence (IAAI-18),
   and the 8th AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI-18),
   New Orleans, Louisiana, USA, February 2-7, 2018*'
-links:
-- name: URL
-  url: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16203
 ---

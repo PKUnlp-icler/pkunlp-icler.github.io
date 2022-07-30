@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2022-07-30T20:28:51+08:00
+lastmod: 2022-07-30T21:03:14+08:00
 featured: false
 draft: false
 
@@ -30,14 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:51.449685Z'
+publishDate: '2022-07-30T13:03:14.218157Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Twenty-Sixth International Joint Conference on Artificial
   Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017*'
 doi: 10.24963/ijcai.2017/568
-links:
-- name: URL
-  url: https://doi.org/10.24963/ijcai.2017/568
 ---

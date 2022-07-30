@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'First Target and Opinion then Polarity: Enhancing Target-opinion Correlation
+title: 'First Target and Opinion Then Polarity: Enhancing Target-Opinion Correlation
   for Aspect Sentiment Triplet Extraction'
 subtitle: ''
 summary: ''
@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-07-30T20:28:14+08:00
+lastmod: 2022-07-30T21:03:38+08:00
 featured: false
 draft: false
 
@@ -35,12 +35,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:14.131936Z'
+publishDate: '2022-07-30T13:03:38.263274Z'
 publication_types:
 - '2'
 abstract: ''
 publication: '*CoRR*'
 links:
-- name: URL
+- name: arXiv
   url: https://arxiv.org/abs/2102.08549
 ---

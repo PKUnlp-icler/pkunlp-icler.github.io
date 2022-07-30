@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Subtopic-Focused Sentence Scoring in Multi-document Summarization
+title: Subtopic-Focused Sentence Scoring in Multi-Document Summarization
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2007-01-01'
-lastmod: 2022-07-30T20:29:37+08:00
+lastmod: 2022-07-30T21:02:47+08:00
 featured: false
 draft: false
 
@@ -28,15 +28,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:37.450078Z'
+publishDate: '2022-07-30T13:02:46.764464Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of The Sixth International Conference on Advanced Language
+publication: '*Proceedings of the Sixth International Conference on Advanced Language
   Processing and Web Information Technology, ALPIT 2007, Luoyang, Henan, China, 22-24
   August 2007*'
 doi: 10.1109/ALPIT.2007.106
-links:
-- name: URL
-  url: https://doi.org/10.1109/ALPIT.2007.106
 ---

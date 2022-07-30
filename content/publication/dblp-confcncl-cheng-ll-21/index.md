@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2022-07-30T20:28:12+08:00
+lastmod: 2022-07-30T21:02:52+08:00
 featured: false
 draft: false
 
@@ -29,14 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:11.522581Z'
+publishDate: '2022-07-30T13:02:52.301845Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Chinese Computational Linguistics - 20th China National Conference,
   CCL 2021, Hohhot, China, August 13-15, 2021, Proceedings*'
 doi: 10.1007/978-3-030-84186-7_17
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-030-84186-7_17
 ---

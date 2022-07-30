@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Research on stator current analysis method of induction motor based on local
-  fault diagnosis of gears
+title: Research on Stator Current Analysis Method of Induction Motor Based on Local
+  Fault Diagnosis of Gears
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2019-01-01'
-lastmod: 2022-07-30T20:28:29+08:00
+lastmod: 2022-07-30T21:03:13+08:00
 featured: false
 draft: false
 
@@ -29,14 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:28.548269Z'
+publishDate: '2022-07-30T13:03:13.222805Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*14th International Conference on Computer Science & Education, ICCSE
   2019, Toronto, ON, Canada, August 19-21, 2019*'
 doi: 10.1109/ICCSE.2019.8845512
-links:
-- name: URL
-  url: https://doi.org/10.1109/ICCSE.2019.8845512
 ---

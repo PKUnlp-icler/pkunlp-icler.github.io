@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2016-01-01'
-lastmod: 2022-07-30T20:29:03+08:00
+lastmod: 2022-07-30T21:03:17+08:00
 featured: false
 draft: false
 
@@ -31,14 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:03.301579Z'
+publishDate: '2022-07-30T13:03:16.714089Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*15th International Symposium on Parallel and Distributed Computing,
   ISPDC 2016, Fuzhou, China, July 8-10, 2016*'
 doi: 10.1109/ISPDC.2016.51
-links:
-- name: URL
-  url: https://doi.org/10.1109/ISPDC.2016.51
 ---

@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2012-01-01'
-lastmod: 2022-07-30T20:29:27+08:00
+lastmod: 2022-07-30T21:03:09+08:00
 featured: false
 draft: false
 
@@ -31,14 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:26.685069Z'
+publishDate: '2022-07-30T13:03:09.250413Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 2012 Joint Conference on Empirical Methods in Natural
   Language Processing and Computational Natural Language Learning, EMNLP-CoNLL 2012,
   July 12-14, 2012, Jeju Island, Korea*'
-links:
-- name: URL
-  url: https://aclanthology.org/D12-1114/
 ---

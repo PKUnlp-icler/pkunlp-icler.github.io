@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2018-01-01'
-lastmod: 2022-07-30T20:28:41+08:00
+lastmod: 2022-07-30T21:03:20+08:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:40.964017Z'
+publishDate: '2022-07-30T13:03:19.700746Z'
 publication_types:
 - '1'
 abstract: ''
@@ -41,7 +41,4 @@ publication: '*Proceedings of the 2018 Conference of the North American Chapter 
   the Association for Computational Linguistics: Human Language Technologies, NAACL-HLT
   2018, New Orleans, Louisiana, USA, June 1-6, 2018, Volume 1 (Long Papers)*'
 doi: 10.18653/v1/n18-1018
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/n18-1018
 ---

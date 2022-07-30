@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2022-07-30T20:28:53+08:00
+lastmod: 2022-07-30T21:03:28+08:00
 featured: false
 draft: false
 
@@ -29,14 +29,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:53.017563Z'
+publishDate: '2022-07-30T13:03:27.718748Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the 11th International Workshop on Semantic Evaluation,
   SemEval@ACL 2017, Vancouver, Canada, August 3-4, 2017*'
 doi: 10.18653/v1/S17-2161
-links:
-- name: URL
-  url: https://doi.org/10.18653/v1/S17-2161
 ---

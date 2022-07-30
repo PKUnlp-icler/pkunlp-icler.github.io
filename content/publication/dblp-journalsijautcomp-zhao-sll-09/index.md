@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A hybrid genetic algorithm for the traveling salesman problem with pickup and
-  delivery
+title: A Hybrid Genetic Algorithm for the Traveling Salesman Problem with Pickup and
+  Delivery
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2009-01-01'
-lastmod: 2022-07-30T20:29:33+08:00
+lastmod: 2022-07-30T21:03:40+08:00
 featured: false
 draft: false
 
@@ -31,13 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:32.890259Z'
+publishDate: '2022-07-30T13:03:39.741028Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Int. J. Autom. Comput.*'
+publication: '*International Journal of Automation and Computing*'
 doi: 10.1007/s11633-009-0097-4
-links:
-- name: URL
-  url: https://doi.org/10.1007/s11633-009-0097-4
 ---

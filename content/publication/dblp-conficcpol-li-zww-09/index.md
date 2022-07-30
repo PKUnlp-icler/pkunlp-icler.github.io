@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Using Proximity in Query Focused Multi-document Extractive Summarization
+title: Using Proximity in Query Focused Multi-Document Extractive Summarization
 subtitle: ''
 summary: ''
 authors:
@@ -12,7 +12,7 @@ authors:
 tags: []
 categories: []
 date: '2009-01-01'
-lastmod: 2022-07-30T20:29:34+08:00
+lastmod: 2022-07-30T21:03:12+08:00
 featured: false
 draft: false
 
@@ -30,15 +30,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:34.100924Z'
+publishDate: '2022-07-30T13:03:12.226990Z'
 publication_types:
 - '1'
 abstract: ''
 publication: '*Computer Processing of Oriental Languages. Language Technology for
-  the Knowledge-based Economy, 22nd International Conference, ICCPOL 2009, Hong Kong,
+  the Knowledge-Based Economy, 22nd International Conference, ICCPOL 2009, Hong Kong,
   March 26-27, 2009. Proceedings*'
 doi: 10.1007/978-3-642-00831-3_17
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-642-00831-3_17
 ---

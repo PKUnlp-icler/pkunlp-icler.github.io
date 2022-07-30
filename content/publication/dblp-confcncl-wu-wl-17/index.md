@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Bi-directional Gated Memory Networks for Answer Selection
+title: Bi-Directional Gated Memory Networks for Answer Selection
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2022-07-30T20:28:50+08:00
+lastmod: 2022-07-30T21:02:55+08:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:28:50.423379Z'
+publishDate: '2022-07-30T13:02:54.915766Z'
 publication_types:
 - '1'
 abstract: ''
@@ -38,7 +38,4 @@ publication: '*Chinese Computational Linguistics and Natural Language Processing
   - 5th International Symposium, NLP-NABD 2017, Nanjing, China, October 13-15, 2017,
   Proceedings*'
 doi: 10.1007/978-3-319-69005-6_21
-links:
-- name: URL
-  url: https://doi.org/10.1007/978-3-319-69005-6_21
 ---

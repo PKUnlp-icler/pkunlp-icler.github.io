@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A progressive sentence selection strategy for document summarization
+title: A Progressive Sentence Selection Strategy for Document Summarization
 subtitle: ''
 summary: ''
 authors:
@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2013-01-01'
-lastmod: 2022-07-30T20:29:19+08:00
+lastmod: 2022-07-30T21:03:43+08:00
 featured: false
 draft: false
 
@@ -31,13 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-30T12:29:19.119035Z'
+publishDate: '2022-07-30T13:03:42.800450Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Inf. Process. Manag.*'
+publication: ''
 doi: 10.1016/j.ipm.2012.05.002
-links:
-- name: URL
-  url: https://doi.org/10.1016/j.ipm.2012.05.002
 ---
