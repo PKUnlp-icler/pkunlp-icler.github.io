@@ -1,0 +1,42 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Two-Echelon Location Routing Problem with Multi-fuzzy and Pick-Delivery Model
+  and Algorithm
+subtitle: ''
+summary: ''
+authors:
+- Hong Li
+- Sujian Li
+tags: []
+categories: []
+date: '2019-01-01'
+lastmod: 2022-07-30T20:28:26+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-07-30T12:28:25.974933Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*Cyber Security Intelligence and Analytics, CSIA 2019, Shenyang, China,
+  21-22 February 2019*'
+doi: 10.1007/978-3-030-15235-2_84
+links:
+- name: URL
+  url: https://doi.org/10.1007/978-3-030-15235-2_84
+---
