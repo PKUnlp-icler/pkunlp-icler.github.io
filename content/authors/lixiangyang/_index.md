@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 60
+# weight: 60
 
 # Role/position/tagline
 role: Noah's Ark Lab, Huawei

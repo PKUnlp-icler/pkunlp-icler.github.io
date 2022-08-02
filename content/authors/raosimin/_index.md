@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 90
+# weight: 90
 
 # Role/position/tagline
 role: Huawei

@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 80
+# weight: 80
 
 # Role/position/tagline
 role: Microsoft

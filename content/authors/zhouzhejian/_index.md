@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 150
+# weight: 150
 
 # Role/position/tagline
 role: Peking University

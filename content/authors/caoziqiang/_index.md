@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 10
+# weight: 10
 
 # Role/position/tagline
 role: SooChew University

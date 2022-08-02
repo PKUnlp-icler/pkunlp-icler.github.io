@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 40
+# weight: 40
 
 # Role/position/tagline
 role: Alumni

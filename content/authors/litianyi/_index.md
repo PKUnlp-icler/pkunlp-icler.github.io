@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 50
+# weight: 50
 
 # Role/position/tagline
 role: The University of Edinburgh

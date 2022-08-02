@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jingfeng Yang
+title: Yuxin Wang
 
 active: true
 
@@ -9,19 +9,19 @@ superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Jingfeng Yang
+  - Yuxin Wang
 
 user_groups: 
 - Alumni
 
-# weight: 130
+# weight: 110
 
 # Role/position/tagline
-role: Amazon Search/A9
+role: NTT
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Amazon Search/A9
+  - name: NTT
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)

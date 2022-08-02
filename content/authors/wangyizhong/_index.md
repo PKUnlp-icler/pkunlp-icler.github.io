@@ -12,7 +12,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 20
+# weight: 20
 
 # Role/position/tagline
 role: University of Washington

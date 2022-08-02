@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 30
+# weight: 30
 
 # Role/position/tagline
 role: Xiaomi

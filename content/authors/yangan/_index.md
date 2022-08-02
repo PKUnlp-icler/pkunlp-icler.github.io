@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 120
+# weight: 120
 
 # Role/position/tagline
 role: DAMO, Alibaba

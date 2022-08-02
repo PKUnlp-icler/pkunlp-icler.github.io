@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 110
+# weight: 110
 
 # Role/position/tagline
 role: NTT

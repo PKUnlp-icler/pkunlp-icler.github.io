@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 70
+# weight: 70
 
 # Role/position/tagline
 role: Kyoto University

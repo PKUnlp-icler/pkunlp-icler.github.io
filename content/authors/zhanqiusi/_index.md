@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 140
+# weight: 140
 
 # Role/position/tagline
 role: UIUC

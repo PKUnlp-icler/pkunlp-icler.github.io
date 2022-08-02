@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jingfeng Yang
+title: Wei Wang
 
 active: true
 
@@ -9,20 +9,20 @@ superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Jingfeng Yang
+  - Wei Wang
 
 user_groups: 
 - Alumni
 
-# weight: 130
+# weight: 40
 
 # Role/position/tagline
-role: Amazon Search/A9
+role: Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Amazon Search/A9
-    url: https://www.pku.edu.cn/
+  # - name: Peking University
+  #   url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

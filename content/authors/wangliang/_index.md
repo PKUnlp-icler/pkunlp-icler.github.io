@@ -14,7 +14,7 @@ authors:
 user_groups: 
 - Alumni
 
-weight: 100
+# weight: 100
 
 # Role/position/tagline
 role: MSRA
