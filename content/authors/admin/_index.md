@@ -69,7 +69,7 @@ email: 'lisujian [@t] pku [dot] edu [dot] cn'
 highlight_name: true
 ---
 
-I am an Associate Professor (with tenure) in Institute of Computational Linguistics, School of Computer Science, Peking University, and work with a bunch of great students in my lab TANGENT. My research focuses on automatic summarization, discourse parsing, information extraction and computational linguistics, etc. 
+I am an Associate Professor (with tenure) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/), Peking University, and work with a bunch of great students in my lab [TANGENT](https://pku-tangent.github.io/). My research focuses on text generation, automatic summarization, discourse parsing, information extraction, etc. 
 
 I have published more than 100 papers in related journals or conferences, including some high-level international conferences such as ACL, EMNLP, KDD, AAAI, IJCAI etc. The awards I received include CCL2020 best paper award, ACL2017 outstanding paper award. I have participated in the construction of comprehensive knowledge base resources, which won the second prize of the National Science and Technology Progress Award in 2011. I presided over and participated in the National Natural Science Foundation of China, the National Social Science Foundation, the National Key R&D Program, the National 863 Project and the 973 Project. 
 
