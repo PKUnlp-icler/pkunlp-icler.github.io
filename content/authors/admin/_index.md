@@ -72,7 +72,7 @@ highlight_name: true
 I am an Associate Professor (with tenure) in Institute of Computational Linguistics, School of Computer Science, Peking University, and work with a bunch of great students in my lab TANGENT. My research focuses on automatic summarization, discourse parsing, information extraction and computational linguistics, etc. 
 
 
-# She has published more than 100 papers in related fields, including more than 60 papers in high-level international conferences such as ACL, EMNLP, KDD, AAAI, IJCAI etc. The awards she received include CCL2020 best paper award, ACL2017 outstanding paper award. She has participated in the construction of comprehensive knowledge base resources, which won the second prize of the National Science and Technology Progress Award in 2011. She presided over and participated in the National Natural Science Foundation of China, the National Social Science Foundation, the National Key R&D Program, the National 863 Project and the 973 Project.
+<!-- She has published more than 100 papers in related fields, including more than 60 papers in high-level international conferences such as ACL, EMNLP, KDD, AAAI, IJCAI etc. The awards she received include CCL2020 best paper award, ACL2017 outstanding paper award. She has participated in the construction of comprehensive knowledge base resources, which won the second prize of the National Science and Technology Progress Award in 2011. She presided over and participated in the National Natural Science Foundation of China, the National Social Science Foundation, the National Key R&D Program, the National 863 Project and the 973 Project. -->
 
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
