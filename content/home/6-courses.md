@@ -35,14 +35,14 @@ item:
     organization: PKU EECS
     organization_url: ''
     title: Set Theory and Graph Theory
-    url: http://123.56.88.210/discretemath.htm
+    url: https://pku-tangent.github.io/SetGraph/
   - date_end: '2021-01-01'
     date_start: '2020-09-01'
     description: ''
     organization: PKU EECS
     organization_url: ''
     title: Set Theory and Graph Theory
-    url: http://123.56.88.210/discretemath.htm
+    url: https://pku-tangent.github.io/SetGraph/
 
 design:
   columns: '2'
