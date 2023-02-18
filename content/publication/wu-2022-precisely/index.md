@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'FRSUM: Towards Faithful Abstractive Summarization via Enhancing Factual Robustness'
+title: 'Precisely the Point: Adversarial Augmentations for Faithful and Informative
+  Text Generation'
 subtitle: ''
 summary: ''
 authors:
@@ -9,13 +10,12 @@ authors:
 - Wei Li
 - Jiachen Liu
 - Xinyan Xiao
-- Ziqiang Cao
 - Sujian Li
-- Hua Wu
+- Yajuan Lyu
 tags: []
 categories: []
-date: '2022-12-01'
-lastmod: 2023-02-18T10:21:51+08:00
+date: '2022-01-01'
+lastmod: 2023-02-18T10:29:04+08:00
 featured: false
 draft: false
 
@@ -33,12 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-18T02:21:50.719952Z'
+publishDate: '2023-02-18T02:29:03.622572Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Findings of the Association for Computational Linguistics: EMNLP 2022*'
-links:
-- name: URL
-  url: https://aclanthology.org/2022.findings-emnlp.267
+publication: '*Proceedings of the 2022 Conference on Empirical Methods in Natural
+  Language Processing*'
 ---

@@ -1,18 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Transition-based Method for Complex Question Understanding
+title: 'FRSUM: Towards Faithful Abstractive Summarization via Enhancing Factual Robustness'
 subtitle: ''
 summary: ''
 authors:
-- Yu Xia
-- Wenbin Jiang
-- Yajuan Lyu
+- Wenhao Wu
+- Wei Li
+- Jiachen Liu
+- Xinyan Xiao
+- Ziqiang Cao
 - Sujian Li
+- Hua Wu
 tags: []
 categories: []
-date: '2022-10-01'
-lastmod: 2023-02-18T10:21:49+08:00
+date: '2022-01-01'
+lastmod: 2023-02-18T10:29:04+08:00
 featured: false
 draft: false
 
@@ -30,12 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-18T02:21:48.735977Z'
+publishDate: '2023-02-18T02:29:04.346847Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*Proceedings of the 29th International Conference on Computational Linguistics*'
-links:
-- name: URL
-  url: https://aclanthology.org/2022.coling-1.369
+publication: '*Findings of the Association for Computational Linguistics: EMNLP 2022*'
 ---
