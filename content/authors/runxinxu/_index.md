@@ -10,7 +10,7 @@ authors:
   - Runxin Xu
 
 user_groups: 
-- Grad. Students
+- Alumni
 
 weight: 40
 

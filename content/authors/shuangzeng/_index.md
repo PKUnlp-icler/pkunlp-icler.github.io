@@ -10,7 +10,7 @@ authors:
   - Shuang Zeng
 
 user_groups: 
-- Grad. Students
+- Alumni
 
 weight: 40
 
