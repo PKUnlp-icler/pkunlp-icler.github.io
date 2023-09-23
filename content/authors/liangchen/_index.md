@@ -15,7 +15,7 @@ user_groups:
 weight: 40
 
 # Role/position/tagline
-role: 2022 - 2025  
+role: leo.liang.chen@stu.pku.edu.cn
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -73,7 +73,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'leo.liang.chen@stu.pku.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
