@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Baobao Chang
+title: Sujian Li
 
 # Is this the primary user of the site?
 superuser: true
 
 authors:
-  - Baobao Chang
+  - Sujian Li
 
 user_groups: 
 - Professor
@@ -24,12 +24,14 @@ organizations:
     url: https://www.pku.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computational Linguistics and Natural Language Processing.
+bio: My research interests include automatic summarization, discourse parsing, information extraction and computational linguistics, etc.
+
 # Interests to show in About widget
 interests:
   - Computational Linguistics
   - Text Generation
   - Information Extraction
+  - Discourse Parsing
 
 
 # Social/Academic Networking
@@ -45,10 +47,10 @@ social:
   #   link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=LaKNyhQAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=RvBDhSwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/PKUnlp-icler
+    link: https://github.com/pku-tangent
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
@@ -61,14 +63,15 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'chbb [@t] pku [dot] edu [dot] cn'
+email: 'lisujian [@t] pku [dot] edu [dot] cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chang, Baobao is an associate professor in the School of Computer Science. He obtained his B.Sc. from Shanxi University in 1992, and Ph.D. from Peking University in 1999 respectively. His research interests include Computational Linguistics, Chinese Language Resource Engineering, Chinese Segmentation, Syntactic and Semantic Parsing.
+I am an Associate Professor (with tenure) in [Institute of Computational Linguistics](https://icl.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/), Peking University, and work with a bunch of great students in my lab [TANGENT](https://pku-tangent.github.io/). My research focuses on text generation, automatic summarization, discourse parsing, information extraction, etc. 
 
-Dr. Chang has published over 60 high quality academic papers in international conferences and Journals, including top-tier conferences such as ACL, EMNLP, COLING, SIGIR and IJCAI. He has served in the Program Committee of various international conferences including ACL, EMNLP, COLING etc. He is co-authors of two text books and teaching courses on Computational Linguistics. As one of key contributors to the Comprehensive Language Knowledge Base (CLKB) project, he was awarded the Second Class National Scientific & Technical Progress Prize of China in 2011 and the First Class Scientific & Technical Progress Prize of Ministry of Education of China in 2007. He is vice director of the key laboratory of Computational Linguistics (Peking University), Ministry of Education, China and member of both CIPSC (Chinese Information Processing Society of China) and CAAI (Chinese Association for Artificial Intelligence). He is also serving on the editorial board of the Journal of Chinese Information Processing.
+I have published more than 100 papers in related journals or conferences, including some high-level international conferences such as ACL, EMNLP, KDD, AAAI, IJCAI etc. The awards I received include CCL2020 best paper award, ACL2017 outstanding paper award. I have participated in the construction of comprehensive knowledge base resources, which won the second prize of the National Science and Technology Progress Award in 2011. I presided over and participated in the National Natural Science Foundation of China, the National Social Science Foundation, the National Key R&D Program, the National 863 Project and the 973 Project. 
+
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
