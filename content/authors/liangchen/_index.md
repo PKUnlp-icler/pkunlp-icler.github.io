@@ -15,7 +15,7 @@ user_groups:
 weight: 40
 
 # Role/position/tagline
-role: leo.liang.chen@stu.pku.edu.cn
+role: leo.liang.chen@outlook dot com
 
 # Organizations/Affiliations to show in About widget
 organizations:
