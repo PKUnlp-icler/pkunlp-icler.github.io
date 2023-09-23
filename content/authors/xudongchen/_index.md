@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Yiming Wang
+title: Xudong Chen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Yiming Wang
+  - Xudong Chen
 
 user_groups: 
 - Alumni
@@ -15,7 +15,7 @@ user_groups:
 weight: 40
 
 # Role/position/tagline
-role: w10y20ming@gmail dot com
+role: Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:

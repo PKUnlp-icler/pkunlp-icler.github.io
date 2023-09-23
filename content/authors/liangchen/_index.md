@@ -73,7 +73,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'leo.liang.chen@stu.pku.edu.cn'
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
