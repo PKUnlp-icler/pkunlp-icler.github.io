@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Liang Chen
+title: Ce Zheng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Liang Chen
+  - Ce Zheng
 
 user_groups: 
 - Students
@@ -15,7 +15,7 @@ user_groups:
 weight: 40
 
 # Role/position/tagline
-role: 2022 - Current  
+role: 2021 - Current  
 
 # Organizations/Affiliations to show in About widget
 organizations:
