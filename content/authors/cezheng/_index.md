@@ -10,7 +10,7 @@ authors:
   - Ce Zheng
 
 user_groups: 
-- Students
+- Grad. Students
 
 weight: 40
 

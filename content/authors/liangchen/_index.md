@@ -10,7 +10,7 @@ authors:
   - Liang Chen
 
 user_groups: 
-- Students
+- Grad. Students
 
 weight: 40
 
