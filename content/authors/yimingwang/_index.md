@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Xudong Chen
+title: Yiming Wang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Xudong Chen
+  - Yiming Wang
 
 user_groups: 
 - Alumni
