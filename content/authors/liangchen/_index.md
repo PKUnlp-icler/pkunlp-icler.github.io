@@ -15,7 +15,7 @@ user_groups:
 weight: 40
 
 # Role/position/tagline
-role: MS student (2022 - 2025)
+role: 2022 - Current  
 
 # Organizations/Affiliations to show in About widget
 organizations:
