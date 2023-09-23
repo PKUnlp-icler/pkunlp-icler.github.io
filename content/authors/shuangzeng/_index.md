@@ -10,12 +10,12 @@ authors:
   - Shuang Zeng
 
 user_groups: 
-- Alumni
+- Grad. Students
 
 weight: 40
 
 # Role/position/tagline
-role: 2021 - 2024
+role: zengshuang61@gmail.com
 
 # Organizations/Affiliations to show in About widget
 organizations:
