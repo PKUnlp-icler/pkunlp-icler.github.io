@@ -15,7 +15,7 @@ user_groups:
 weight: 40
 
 # Role/position/tagline
-role: 2021 - Current  
+role: 2021 - 2024  
 
 # Organizations/Affiliations to show in About widget
 organizations:

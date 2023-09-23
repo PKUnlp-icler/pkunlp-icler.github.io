@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Liang Chen
+title: Zefan Cai
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Liang Chen
+  - Zefan Cai
 
 user_groups: 
 - Grad. Students
