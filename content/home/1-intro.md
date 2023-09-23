@@ -44,6 +44,6 @@ subtitle = ""
 
 +++
 
-## 👋 Welcome to TANGENT Group!
+## 👋 Hi, This is PKUNLP-ICLER !
 
-We are Text ANalysis and GENeration Technology Group (TANGENT) from Peking University. Our major research interests reside in Natural Language Processing. We are broadly interested in several research topics including discourse parsing, document summarization, text generation, keyword extraction, machine comprehension and information extraction.
+We are a research group at Peking University, led by [Prof. Baobao Chang](https://cs.pku.edu.cn/info/1090/1648.htm). Our research interests include a wide range of topics in  Natural Language Processing (NLP), such as semantic parsing, information extraction, large language models, multi-modal learning, and so on. We are also interested in applying NLP techniques to solve real-world problems.
