@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Liang Chen
+title: Helan Hu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Liang Chen
+  - Helan Hu
 
 user_groups: 
 - Grad. Students

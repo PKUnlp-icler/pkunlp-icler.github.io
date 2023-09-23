@@ -10,12 +10,12 @@ authors:
   - Ce Zheng
 
 user_groups: 
-- Students
+- Grad. Students
 
 weight: 40
 
 # Role/position/tagline
-role: 2021 - Current  
+role: 2021 - 2024  
 
 # Organizations/Affiliations to show in About widget
 organizations:
