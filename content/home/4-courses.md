@@ -23,17 +23,17 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: '2022-06-01'
-    date_start: '2022-02-01'
+  - date_end: '2024-01-31'
+    date_start: '2023-09-01'
     description: ''
-    organization: PKU EECS
+    organization: PKU CS
     title: Computational Linguistics
-  - date_end: '2023-01-01'
-    date_start: '2022-09-01'
+  - date_end: '2024-01-31'
+    date_start: '2023-09-01'
     description: ''
     organization: PKU EECS
     organization_url: ''
-    title: Introduction to Computation
+    title: Introduction to Computation (C)
 
 design:
   columns: '2'
