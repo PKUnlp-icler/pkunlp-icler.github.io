@@ -20,13 +20,16 @@ main:
   #   url: '#5-projects'
   #   weight: 50
   - name: Courses
-    url: '#6-courses'
+    url: '#4-courses'
     weight: 60
   - name: People
-    url: '#7-people'
+    url: '#5-people'
+    weight: 70
+  - name: Publications
+    url: '#6-publications'
     weight: 70
   - name: Gallary
-    url: '#9-gallary'
+    url: '#7-gallary'
     weight: 90
   - name: Contact
     url: '#contact'
