@@ -34,6 +34,9 @@ design:
   view: 3
 ---
 
--  One paper is accepted to NeurIPS 2023
--  New preprint on multimodal large language model,  "MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning"
--  Two papers are accepted to ACL 2023
+- "On the Pareto Front of Multilingual Neural Machine Translation" is accepted to NeurIPS 2023.
+- "SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition" is accepted to ACL 2023 Findings.
+- "On the off-target problem of zero-shot multilingual neural machine translation" is accepted to ACL 2023 Findings.
+- "Query your model with definitions in FrameNet: an effective method for frame semantic role labeling" is accepted to AAAI 2023.
+- "TABLEIE: Capturing the Interactions Among Sub-Tasks in Information Extraction via Double Tables" is accepted to ICASSP 2023.
+- "A Span-based Target-aware Relation Model for Frame-semantic Parsing" is accepted to ACM Transactions on Asian and Low-Resource Language Information Processing.
