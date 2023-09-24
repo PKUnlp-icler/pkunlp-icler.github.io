@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Shuang Zeng
+title: Yufeng He
 
 # Is this the primary user of the site?
 superuser: false
 
 # Username (this should match the folder name)
 authors:
-  - Shuang Zeng
+  - Yufeng He
 
 user_groups: 
-- Alumni
+- Grad. Students
 
 weight: 40
 
