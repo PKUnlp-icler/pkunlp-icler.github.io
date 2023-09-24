@@ -25,7 +25,7 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: lisujian [@t] pku [dot] edu [dot] cn
+  email: chbb [@t] pku [dot] edu [dot] cn
   # phone: 888 888 88 88
   address:
     street: No.5 Yiheyuan Road
