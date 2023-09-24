@@ -13,12 +13,12 @@ main:
   # - name: Experience
   #   url: '#3-experience'
   #   weight: 30
-  - name: Services
-    url: '#4-services'
-    weight: 40
-  - name: Projects
-    url: '#5-projects'
-    weight: 50
+  # - name: Services
+  #   url: '#4-services'
+  #   weight: 40
+  # - name: Projects
+  #   url: '#5-projects'
+  #   weight: 50
   - name: Courses
     url: '#6-courses'
     weight: 60
