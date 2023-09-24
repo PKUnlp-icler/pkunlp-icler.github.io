@@ -15,8 +15,6 @@ content:
     - Professor
     - Ph.D. Students
     - Grad. Students
-    - Administration
-    - Visitors
     - Alumni
 design:
   # Show user's social networking links? (true/false)
