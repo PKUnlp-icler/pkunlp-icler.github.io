@@ -25,9 +25,6 @@ main:
   - name: People
     url: '#7-people'
     weight: 70
-  - name: Publications
-    url: '#8-publications'
-    weight: 80
   - name: Gallary
     url: '#9-gallary'
     weight: 90
