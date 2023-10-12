@@ -34,6 +34,7 @@ design:
   view: 3
 ---
 
+
 - "On the Pareto Front of Multilingual Neural Machine Translation" is accepted to NeurIPS 2023.
 - "SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition" is accepted to ACL 2023 Findings.
 - "On the off-target problem of zero-shot multilingual neural machine translation" is accepted to ACL 2023 Findings.
@@ -45,6 +46,7 @@ design:
 - "A Two-Stage Method for Chinese AMR Parsing" wins the second prize at CAMRP-2022.
 - "SCL-RAI: Span-based Contrastive Learning with Retrieval Augmented Inference for Unlabeled Entity Problem in NER" is accepted to COLING 2022
 - "From dense to sparse: Contrastive pruning for better pre-trained language model compression" is accepted to AAAI 2022.
+- "Mining Clues from Incomplete Utterance: A Query-enhanced Network for Incomplete Utterance Rewriting" is accepted to NAACL 2022.
 - "A double-graph based framework for frame semantic parsing" is accepted to NAACL 2022. 
 - "A two-stream AMR-enhanced model for document-level event argument extraction" is accepted to NAACL 2022. 
 - "ATP: AMRize then parse! enhancing AMR parsing with PseudoAMRs" is accepted to NAACL Findings 2022.
