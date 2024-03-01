@@ -34,11 +34,16 @@ design:
   view: 3
 ---
 
+## 2024
+
+- "MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning" is accepted to ICLR 2024.
+
 ## 2023
 
 - "Can We Edit Factual Knowledge by In-Context Learning?" is accepted to EMNLP 2023.
 - "Coarse-to-Fine Dual Encoders are Better Frame Identification Learners" is accepted to EMNLP 2023 Findings.
 - "Guiding AMR Parsing with Reverse Graph Linearization" is accepted to EMNLP 2023 Findings.
+- "Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond" is accepted to Foundatation Model for Decision Making workshop @NeurIPS 2023.
 - "On the Pareto Front of Multilingual Neural Machine Translation" is accepted to NeurIPS 2023.
 - "SANTA: Separate Strategies for Inaccurate and Incomplete Annotation Noise in Distantly-Supervised Named Entity Recognition" is accepted to ACL 2023 Findings.
 - "On the off-target problem of zero-shot multilingual neural machine translation" is accepted to ACL 2023 Findings.
