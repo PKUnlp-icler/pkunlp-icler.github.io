@@ -23,9 +23,7 @@ organizations:
     url: https://www.pku.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, this is Liang Chen (陈亮). I'm a PhD student at the Institute of Computational Linguistics, Peking University advised by Baobao Chang.
-
-Currently, I am interested in developing multimodal Large Language Models and embodied agents. Please feel free to contact and discuss. [Google Scholar Page](https://scholar.google.com/citations?user=lMKPaTYAAAAJ&hl=en)
+bio: Hi, this is Liang Chen (陈亮). I'm a PhD student at the Institute of Computational Linguistics, Peking University advised by Baobao Chang. Currently, I am interested in developing multimodal Large Language Models and embodied agents. Please feel free to contact and discuss. [Google Scholar Page](https://scholar.google.com/citations?user=lMKPaTYAAAAJ&hl=en)
 
 
 # Link to a PDF of your resume/CV.
