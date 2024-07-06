@@ -36,6 +36,12 @@ design:
 
 ## 2024
 
+- "MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation" is released, check the new multimodal benchmark's [homepage](https://mmevalpro.github.io/)
+- "An image is worth 1/2 tokens after layer 2: Plug-and-play inference acceleration for large vision-language models" is accepted to ECCV 2024.
+- "Improving Event Definition Following For Zero-Shot Event Detection" is accepted to ACL 2024.
+- "PCA-Bench: Evaluating Multimodal Large Language Models in Perception-Cognition-Action Chain" is accepted to ACL 2024 Findings.
+- "Distantly-Supervised Named Entity Recognition with Uncertainty-aware Teacher Learning and Student-student Collaborative Learning" is accepted to ACL 2024 Findings.
+- "Mitigating Language-Level Performance Disparity in mPLMs via Teacher Language Selection and Cross-lingual Self-Distillation" is accepted to NAACL 2024.
 - "MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning" is accepted to ICLR 2024.
 
 ## 2023
